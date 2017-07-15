@@ -21,4 +21,4 @@ Instructions for use:
 3. copypaste the validationUrl into a browser, log in to OVH and validate your keys
 4. configure ip address, domain name and keys below
 5. add to cron to run once a minute:
-* * * * * /usr/local/bin/watch-for-new-ip.pl
+```* * * * * /usr/local/bin/watch-for-new-ip.pl```
