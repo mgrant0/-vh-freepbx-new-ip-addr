@@ -1,6 +1,9 @@
 # ovh-freepbx-new-ip-addr
 
-Update ip address restriction at OVH when your dynamic ip address changes and reload asterisk dialplan
+Update the ip address restriction at OVH (ovhtelecom.com) when your
+dynamic ip address changes and reload asterisk dialplan.  This is
+useful if you have a SIP phone at OVH and you restrict access to your
+SIP account to a specific ip address for security reasons.
 
 Written by Michael Grant
 
