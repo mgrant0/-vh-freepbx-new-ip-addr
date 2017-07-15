@@ -1,4 +1,4 @@
-# -vh-freepbx-new-ip-addr
+# ovh-freepbx-new-ip-addr
 
 Update ip address restriction at OVH when your dynamic ip address changes and reload asterisk dialplan
 
